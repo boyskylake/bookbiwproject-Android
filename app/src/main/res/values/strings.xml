@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_cs</string>
+    <string name="title_activity_user_main">UserMainActivity</string>
+    <string name="title_home">SendBook</string>
+    <string name="title_dashboard">ReceiveBook</string>
+    <string name="title_notifications">Account</string>
+</resources>
